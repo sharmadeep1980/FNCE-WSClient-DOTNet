@@ -77,11 +77,6 @@ namespace CEWebClientCS
                 bec.Add(httptbe);
             }
 
-            /*HttpsTransportBindingElement tbe = new HttpsTransportBindingElement();
-            tbe.MaxReceivedMessageSize = 2147483647;
-            tbe.MaxBufferSize = 2147483647;
-            bec.Add(tbe);*/
-
             CustomBinding binding = new CustomBinding(bec);
             binding.ReceiveTimeout = new TimeSpan(TimeSpan.TicksPerDay);    // 100 nanonsecond units, make it 1 day
             binding.SendTimeout = binding.ReceiveTimeout;
