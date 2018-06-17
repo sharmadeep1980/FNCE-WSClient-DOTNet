@@ -1,0 +1,17 @@
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\bin\Debug\CE40WebClientCS.exe.config
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\bin\Debug\CE40WebClientCS.exe
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\bin\Debug\CE40WebClientCS.pdb
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.AdhocQuery.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.Form1.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.CreateClassSelect.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.CreateDoc.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.CreateFolder.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.CreatePropTemplate.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.FolderTree.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CEWebClientCS.ServerConfig.resources
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CE40WebClientCSWCF.csproj.GenerateResource.cache
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CE40WebClientCS.exe
+C:\Users\dsharma\Downloads\p852_cews40_cs_wcf_sample\p852_cews40_cs_wcf_sample\p845_cews40_cs_wcf_sample\obj\Debug\CE40WebClientCS.pdb
+C:\Users\dsharma\Documents\FNCE-WSClient-DOTNet\bin\Debug\CE40WebClientCS.exe.config
+C:\Users\dsharma\Documents\FNCE-WSClient-DOTNet\obj\Debug\CE40WebClientCS.exe
+C:\Users\dsharma\Documents\FNCE-WSClient-DOTNet\obj\Debug\CE40WebClientCS.pdb
